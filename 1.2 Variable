@@ -1,0 +1,19 @@
+Price = 10
+Print (Price)
+
+
+# 10
+
+Price = 10
+Price = 20
+Print (Price)
+
+#20
+
+
+## hospital entry for new patient
+
+full_name = ‘viji samy’
+Age =20
+is_new = true 
+print ('full_name ' + 'age ' + 'is_new ')
