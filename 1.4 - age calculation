@@ -1,0 +1,7 @@
+Birth_year =input('Birth_year ')
+age = 2021 - int(Birth_year)
+print(age)
+
+
+##Birth_year 1990
+31
