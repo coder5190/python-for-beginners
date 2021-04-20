@@ -1,0 +1,12 @@
+Name = input('Enter your name ')
+Birth_year =input('Enter year of birth ')
+description = "My age is "
+Age = 2021 - int(Birth_year)
+print("My " + "name" + " is " + Name)
+print(description +  str(Age))
+
+
+#Enter your name viji
+Enter year of birth 1990
+My name is viji
+My age is 31
