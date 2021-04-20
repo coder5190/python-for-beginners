@@ -1,0 +1,13 @@
+course = "python for beginners"
+print(course)
+
+#python for beginners
+
+
+course = 'python for "beginners"'
+print(course)
+
+#python for "beginners"
+
+
+
