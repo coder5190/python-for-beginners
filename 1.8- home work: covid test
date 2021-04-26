@@ -1,0 +1,11 @@
+has_fever = int(input(" Enter your body temperature: "))
+has_cold = True
+
+if has_fever > 35 and has_cold:
+    print('You have Covid symptoms')
+else:
+    print('You dont have covid symptoms')
+    
+  
+  # Enter your body temperature: 43
+You have Covid symptoms.  
