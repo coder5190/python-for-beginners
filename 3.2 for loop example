@@ -1,0 +1,8 @@
+for item in ['viji', 'yuki','sumire']:
+    print (item)
+    
+    
+    
+#viji
+yuki
+sumire
