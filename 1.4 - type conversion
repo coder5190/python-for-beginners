@@ -5,3 +5,17 @@ print(age)
 
 ##Birth_year 1990
 31
+
+
+
+birth_year = input('Birth year: ')
+print(type(birth_year))
+age = 2021 -int(birth_year)
+print(type(age))
+print(age)
+
+
+##Birth year: 1990
+<class 'str'>
+<class 'int'>
+31
